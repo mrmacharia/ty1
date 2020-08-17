@@ -4569,13 +4569,13 @@ html .slide-overlay.slide-overlay-gradient .slotholder:after {
 .cd-product-viewer-handle .handle {
   background: #ff6e33;
 }
-.tparrows.tparrows-carousel.tp-leftarrow,
+/* .tparrows.tparrows-carousel.tp-leftarrow,
 .tparrows.tparrows-carousel.tp-rightarrow {
   background-color: #ff6e33;
   border-color: #ff6e33 #ff6e33 #006699;
   color: #fff;
-}
-.tparrows.tparrows-carousel.tp-leftarrow:hover,
+} */
+/* .tparrows.tparrows-carousel.tp-leftarrow:hover,
 .tparrows.tparrows-carousel.tp-rightarrow:hover,
 .tparrows.tparrows-carousel.tp-leftarrow.hover,
 .tparrows.tparrows-carousel.tp-rightarrow.hover {
@@ -4606,7 +4606,7 @@ html .slide-overlay.slide-overlay-gradient .slotholder:after {
 }
 .tparrows.arrows-primary:before {
   color: #ff6e33;
-}
+} */
 .shop .products .product .onsale {
   background-color: #ff6e33;
   border-bottom-color: #006da3;
